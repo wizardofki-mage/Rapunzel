@@ -41,7 +41,16 @@ Released on GitHub as-is.
 ## Release date
 22 June, 2025
 
-## Acknowledgements
-Horton, John. Beginning C++ Game Programming, 2nd ed.
+## Sources
+Horton, John. Beginning C++ Game Programming, 2nd ed., Packt Publishing, 2019.
+* playerLeft.png and playerRight.png from Wizard by Firkin on https://openclipart.org/detail/229148/wizard (public domain)
+* wizardTower.png from Kehlen tower.jpg by Jonny Chicago on https://commons.wikimedia.org/wiki/File:Kehlen_tower.jpg (GNU Free Documentation License)
+* fairy.png on https://vectorportal.com/vector/fairy-vector.ai/8216 (Creative Commons Attribution License/royalty free)
+* background.png from Mountain Landscape Free Stock Image by Sam Ferrar at https://stocksnap.io/photo/mountain-landscape-D9QN84B8D8 (Commons Deed/public domain)
+* staffLeft.png and staffRight.png from Low-Tier Mage Staff by slipled at https://www.deviantart.com/slipled/art/Low-Tier-Mage-Staff-1123583629 (Creative Commons Non-Commerical License)
+* 
 
 
+
+## Contact
+Jason Ash - wizardofki@gmail.com
