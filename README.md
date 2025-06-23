@@ -43,14 +43,18 @@ Released on GitHub as-is.
 
 ## Sources
 Horton, John. Beginning C++ Game Programming, 2nd ed., Packt Publishing, 2019.
+The graphics .png files in my project were edited using GIMP and .wav sound files using Audacity.
+The following graphics, sounds, and fonts used in this game and uploaded to this repository are derived from the following sources:
 * playerLeft.png and playerRight.png from Wizard by Firkin on https://openclipart.org/detail/229148/wizard (public domain)
 * wizardTower.png from Kehlen tower.jpg by Jonny Chicago on https://commons.wikimedia.org/wiki/File:Kehlen_tower.jpg (GNU Free Documentation License)
 * fairy.png on https://vectorportal.com/vector/fairy-vector.ai/8216 (Creative Commons Attribution License/royalty free)
 * background.png from Mountain Landscape Free Stock Image by Sam Ferrar at https://stocksnap.io/photo/mountain-landscape-D9QN84B8D8 (Commons Deed/public domain)
-* staffLeft.png and staffRight.png from Low-Tier Mage Staff by slipled at https://www.deviantart.com/slipled/art/Low-Tier-Mage-Staff-1123583629 (Creative Commons Non-Commerical License)
-* 
-
-
+* staffLeft.png and staffRight.png from Low-Tier Mage Staff by slipled at https://www.deviantart.com/slipled/art/Low-Tier-Mage-Staff-1123583629 (Creative Commons Non-Commercial License)
+* braid.png from Close-up Braided Hair of Blonde Woman by Irina Kaminshaya at https://www.pexels.com/photo/close-up-of-braided-hair-of-blonde-woman-12705360/ (Free to use)
+* stoneblock.png at https://pxhere.com/en/photo/874912 (CC0 Public Domain)
+* punch-a-rock.wav from "Punch a Rock" by LordSonny at https://pixabay.com/sound-effects/search/hit%20stone/ (Royalty free, turn down your volume before listening since this one is loud).
+* out_of_time.wav from "Out of Breath (Male) by VoiceBosch at https://pixabay.com/sound-effects/search/out%20of%20time/ (Royalty free)
+* death.wave from "Male Death Scream Horror" by Universfield at https://pixabay.com/sound-effects/search/death/ (Royalty free, also turn down your volume before listening since this one is loud, too).
 
 ## Contact
 Jason Ash - wizardofki@gmail.com
