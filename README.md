@@ -48,7 +48,7 @@ Any computer that is at least a Pentium 4 with 1 or 2 GB of system RAM running W
 
 ## Screenshots
 ![A screen capture of the game in play with the wizard attacking the tower and Rapunzel's braids comming down with a score counter in the upper left corner and a time bar in the center at the bottom of the screen]
-(RapunzelScreenshot_2025-06-22_231955.png)
+(RapunzelScreenshot_2025-06-22_231955.jpg)
 
 ## Project Status
 Released on GitHub as-is.
