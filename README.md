@@ -34,8 +34,8 @@ Although Rapunzel was programmed and compiled in CodeBlocks for Windows, John Ho
 7. Relative to main.cpp, place the .png files in a subfolder called "graphics", the .wav files in a subfolder called "sounds", and the .ttf in a subfolder called "fonts".
 8. In addition to the instructions in the YT video above, under project build options, under Debug Linker settings, make sure to add sfml-audio-d. Likewise, under the Linker settings for Release, add sfml-audio.
     Ymmv, but failure to do this step could result in:
-    A) The sound effects not working, and
-    B) By not doing so at first, I left the audio on my computer in such a state that I had to restart it to even watch a YouTube video. My audio returned to normal function after restarting.
+* The sound effects not working, and
+* By not doing so at first, I left the audio on my computer in such a state that I had to restart it to even watch a YouTube video. My audio returned to normal function after restarting.
 9. Turn down the volume on your computer since the sound effects are quite loud.   
 10. Compile the .cpp source file in CodeBlocks, and enjoy the game.
 
