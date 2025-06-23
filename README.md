@@ -1,5 +1,16 @@
 # Rapunzel
 ## Table of Contents
+* [General info](#General-info)
+* [Collaborators](#Collaborators)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
+* [Usage](#Usage)
+* [Minimum hardware requirements](#Minimum-hardware-requirements)
+* [Screenshots](#Screenshots)
+* [Project status](#Project-status)
+* [Release date](#Release-date)
+* [Sources](#Sources)
+* [Contact](#Contact)
 
 ## General info
 Rapunzel is a simple C++ game based on Timber!, which is the first lesson in Beginning C++ Game Programming, 2nd ed. by John Horton. Timber is, in turn, based on Timberman on Steam.
@@ -34,6 +45,9 @@ Although Rapunzel was programmed and compiled in CodeBlocks for Windows, John Ho
 
 ## Minimum hardware requirements
 Any computer that is at least a Pentium 4 with 1 or 2 GB of system RAM running Windows 7 SP1 or later with sufficient hard drive space should be able to play this game.
+
+## Screenshots
+![A screen capture of the game in play with the wizard attacking the tower and Rapunzel's braids comming down with a score counter in the upper left corner and a time bar in the center at the bottom of the screen]
 
 ## Project Status
 Released on GitHub as-is.
