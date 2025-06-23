@@ -62,7 +62,7 @@ Released on GitHub as-is.
 22 June, 2025
 
 ## Acknowledgements
-* At first, I was just making a Timber clone with sprites derived from images that are free for non-commercial use. Then, my spouse, Lisa, suggested to have a wizard attacking a tower and avoiding Rapunzel's hair. I decided to make that the game instead.
+* At first, I was just making a Timber clone with sprites that were derived from images free for non-commercial use. Then, my spouse, Lisa, suggested to have a wizard attacking a tower and avoiding Rapunzel's hair. I decided to make that the game instead.
 
 ## Sources
 Horton, John. Beginning C++ Game Programming, 2nd ed., Packt Publishing, 2019.
