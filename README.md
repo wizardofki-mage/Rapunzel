@@ -74,6 +74,7 @@ The following graphics, sounds, and fonts used in this game and uploaded to this
 * punch-a-rock.wav from "Punch a Rock" by LordSonny at https://pixabay.com/sound-effects/search/hit%20stone/ (Royalty free, turn down your volume before listening since this one is loud).
 * out_of_time.wav from "Out of Breath (Male) by VoiceBosch at https://pixabay.com/sound-effects/search/out%20of%20time/ (Royalty free)
 * death.wave from "Male Death Scream Horror" by Universfield at https://pixabay.com/sound-effects/search/death/ (Royalty free, also turn down your volume before listening since this one is loud, too).
+* MagicSchoolOne.ttf from Magic School Font Family by FontMesa at https://www.1001fonts.com/magic-school-font.html (Free for Commercial Use License).
 
 ## Contact
 Jason Ash - wizardofki@gmail.com
