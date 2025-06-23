@@ -30,9 +30,14 @@ Although Rapunzel was programmed and compiled in CodeBlocks for Windows, John Ho
 3. Extract both of those in suitable folders/directories.
 4. Watch the YouTube video by FF Dev on how to set up your CodeBlocks to use SFML at https://www.youtube.com/watch?v=NxB2qsUG-qM&t=556s
 5. Alternatively, you could follow the tutorial in the book by John Horton for Visual Studio Code (but I didn't have any luck getting it to work that way).
-6. Download main.cpp, the .png graphics files, the font, and the sound .wav files from this repository.
+6. Download main.cpp, Timber2.cbp, Timber2.depend, Timber2.layout, the .png graphics files, the font, cb.bmp, and the sound .wav files from this repository.
 7. Relative to main.cpp, place the .png files in a subfolder called "graphics", the .wav files in a subfolder called "sounds", and the .ttf in a subfolder called "fonts".
-8. Compile the .cpp source file in CodeBlocks, and enjoy the game.
+8. In addition to the instructions in the YT video above, under project build options, under Debug Linker settings, make sure to add sfml-audio-d. Likewise, under the Linker settings for Release, add sfml-audio.
+    Ymmv, but failure to do this step could result in:
+    A) The sound effects not working, and
+    B) By not doing so at first, I left the audio on my computer in such a state that I had to restart it to even watch a YouTube video. My audio returned to normal function after restarting.
+9. Turn down the volume on your computer since the sound effects are quite loud.   
+10. Compile the .cpp source file in CodeBlocks, and enjoy the game.
 
 ## Usage
 * The game starts "paused" at a screen similar to the end game screen and prompts the user to press the Enter key.
