@@ -9,6 +9,7 @@
 * [Screenshots](#Screenshots)
 * [Project status](#Project-status)
 * [Release date](#Release-date)
+* [Acknowledgements](#Acknowledgements)
 * [Sources](#Sources)
 * [Contact](#Contact)
 
@@ -59,6 +60,9 @@ Released on GitHub as-is.
 
 ## Release date
 22 June, 2025
+
+## Acknowledgements
+* At first, I was just making a Timber clone with sprites derived from images that are free for non-commercial use. Then, my spouse, Lisa, suggested to have a wizard attacking a tower and avoiding Rapunzel's hair. I decided to make that the game instead.
 
 ## Sources
 Horton, John. Beginning C++ Game Programming, 2nd ed., Packt Publishing, 2019.
