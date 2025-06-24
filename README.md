@@ -50,7 +50,8 @@ Although Rapunzel was programmed and compiled in CodeBlocks for Windows, John Ho
 * Press the Esc key at any time to exit the game.
 
 ## Minimum hardware requirements
-Any computer that is at least a Pentium 4 with 1 or 2 GB of system RAM running Windows 7 SP1 or later with sufficient hard drive space should be able to play this game.
+* Any computer that is at least a Pentium 4 with 1 or 2 GB of system RAM running Windows 7 SP1 or later with sufficient hard drive space should be able to play this game.
+* Your graphics adapter and monitor must be capable of 1920 x 1080 resolution because this game is hardcoded to run at this resolution.
 
 ## Screenshots
 ![A screen capture of the game in play with the wizard attacking the tower and Rapunzel's braids comming down with a score counter in the upper left corner and a time bar in the center at the bottom of the screen](RapunzelScreenshot_2025-06-22_231955.jpg)
